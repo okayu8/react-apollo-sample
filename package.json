@@ -1,0 +1,12 @@
+{
+  "name": "react-apollo-sample",
+  "version": "1.0.0",
+  "description": "My Graphcool Service",
+  "dependencies": {
+    "apollo-client": "^2.5.1",
+    "graphql-tag": "^2.10.1",
+    "react-apollo": "^2.5.3",
+    "react-router": "^5.0.0",
+    "tachyons": "^4.11.1"
+  }
+}
